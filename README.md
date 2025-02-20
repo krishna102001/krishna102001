@@ -23,7 +23,8 @@
 
 ###
 
-<p align="left">I'm Backend Developer from India<br><br>- 📚 Exploring about backend development.</p>
+<p align="left">I'm Backend Developer from India<br><br>- 🎓 I'm currently pursuing Bachelor Of Technology in IT from Gautam Budhha University <br>- 📚 Exploring about backend development.
+</p>
 
 ###
 
