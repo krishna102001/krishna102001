@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/krishna2k21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=0c0c0c&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=2e3033&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
    <a href="https://leetcode.com/krishna102001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2e3033&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
   </a>
   <a href="https://instagram.com/krishna16.16" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
