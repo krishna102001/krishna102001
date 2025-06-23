@@ -31,7 +31,7 @@
 
 <p align="left"> I'm a Backend Developer from India.<br><br> 
   - 🎓 I have completed my B.Tech in IT from Gautam Buddha University.<br> 
-  - 💻 I specialize in backend development using <bold>Go (Golang)</bold> with frameworks like **Gin-Gonic** and **GORM**.<br> 
+  - 💻 I specialize in backend development using <strong>Go (Golang)</strong> with frameworks like **Gin-Gonic** and **GORM**.<br> 
   - 🤖 I have integrated **OpenAI** and **Ollama** into various web applications to enable AI-powered features.<br> 
   - 🧠 I'm also experienced with **TypeScript**, **Prisma ORM**, and **React.js**, giving me a solid grasp of both backend and frontend development.<br> 
   - 🚀 Passionate about building scalable and intelligent systems, and always eager to explore and learn new technologies. </p>
