@@ -31,9 +31,9 @@
 
 <p align="left"> I'm a Backend Developer from India.<br><br> 
   - 🎓 I have completed my B.Tech in IT from Gautam Buddha University.<br> 
-  - 💻 I specialize in backend development using <strong>Go (Golang)</strong> with frameworks like **Gin-Gonic** and **GORM**.<br> 
-  - 🤖 I have integrated **OpenAI** and **Ollama** into various web applications to enable AI-powered features.<br> 
-  - 🧠 I'm also experienced with **TypeScript**, **Prisma ORM**, and **React.js**, giving me a solid grasp of both backend and frontend development.<br> 
+  - 💻 I specialize in backend development using <strong>Go (Golang)</strong> with frameworks like <strong>Gin-Gonic</strong> and <strong>GORM</strong>.<br> 
+  - 🤖 I have integrated <strong>OpenAI</strong> and <strong>Ollama</strong> into various web applications to enable AI-powered features.<br> 
+  - 🧠 I'm also experienced with <strong>TypeScript</strong>, <strong>Prisma ORM</strong>, and <strong>React.js</strong>, giving me a solid grasp of both backend and frontend development.<br> 
   - 🚀 Passionate about building scalable and intelligent systems, and always eager to explore and learn new technologies. </p>
 
 ###
@@ -68,7 +68,6 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 </div>
 
 ###
