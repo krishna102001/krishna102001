@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/krishna2k21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=2e3033&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="25" alt="twitter logo"  />
   </a>
    <a href="https://leetcode.com/krishna102001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2e3033&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25" alt="leetcode logo" />
   </a>
   <a href="https://instagram.com/krishna16.16" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -29,8 +29,12 @@
 
 ###
 
-<p align="left">I'm Backend Developer from India<br><br>- 🎓 I'm currently pursuing B.Tech in IT from Gautam Budhha University. <br>- 📚 Exploring about backend development.
-</p>
+<p align="left"> I'm a Backend Developer from India.<br><br> 
+  - 🎓 I have completed my B.Tech in IT from Gautam Buddha University.<br> 
+  - 💻 I specialize in backend development using **Go (Golang)** with frameworks like **Gin-Gonic** and **GORM**.<br> 
+  - 🤖 I have integrated **OpenAI** and **Ollama** into various web applications to enable AI-powered features.<br> 
+  - 🧠 I'm also experienced with **TypeScript**, **Prisma ORM**, and **React.js**, giving me a solid grasp of both backend and frontend development.<br> 
+  - 🚀 Passionate about building scalable and intelligent systems, and always eager to explore and learn new technologies. </p>
 
 ###
 
