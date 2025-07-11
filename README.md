@@ -85,7 +85,10 @@
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/krishna102001/krishna102001/output/github-contribution-grid-snake.svg" />
 
 ###
-
+<div align="left">
+  <h2><b>👀 Visitor Count</b></h2>
+  <img src="https://count.getloli.com/@krishna102001?theme=booru-huggboo" alt="Kk Maurya" />
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/krishna102001/count.svg?"  />
 </div>
