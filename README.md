@@ -9,11 +9,11 @@
   <a href="https://x.com/krishna2k21" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="25" alt="twitter logo"  />
   </a>
-<!--    <a href="https://leetcode.com/krishna102001" target="_blank">
+   <a href="https://leetcode.com/krishna102001" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25" alt="leetcode logo" />
-  </a> -->
-  <a href="https://instagram.com/krishna16.16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <!-- <a href="https://instagram.com/krishna16.16" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> -->
   </a>
 </div>
 
