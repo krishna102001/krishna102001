@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Krishna Kant 👋
+  Hi there, I'm Krishna Kant <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 </h1>
 
 <h3 align="center">
