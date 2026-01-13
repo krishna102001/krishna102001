@@ -1,108 +1,86 @@
-<h1 align="center">Hi there, I'm Krishna Kant <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
+<h1 align="center">
+  Hi there, I'm Krishna Kant 👋
+</h1>
 
-###
+<h3 align="center">
+  Golang Backend Developer | Intern @ Capcons Analytics | Freelance Developer
+</h3>
+
+---
 
 <div align="center">
-  
   <a href="https://x.com/krishna2k21" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/krishna102001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://leetcode.com/krishna102001" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25" alt="leetcode logo" />
-  </a>
-  <!-- <a href="https://instagram.com/krishna16.16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> -->
+  <a href="https://leetcode.com/krishna102001" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+<img align="right" height="160" src="./fire.gif" />
 
-<img align="right" height="155" src="./fire.gif"  />
+## 👨‍💻 About Me
 
-###
+- 💼 Currently working as a **Golang Developer Intern at Capcons Analytics**
+- 🧑‍💻 Also working as a **Freelance Golang Developer**, building scalable backend systems
+- 🎓 B.Tech in Information Technology from **Gautam Buddha University**
+- ⚙️ Strong focus on **high-performance APIs, system design, and distributed systems**
+- 🚀 Passionate about building **scalable, reliable, production-grade platforms**
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 🛠 Tech Stack
 
-<p align="left"> I'm a Backend Developer from India.<br><br> 
-  - 🎓 I have completed my B.Tech in IT from Gautam Buddha University.<br> 
-  - 💻 I specialize in backend development using <strong>Go (Golang)</strong> with frameworks like <strong>Gin-Gonic</strong> and <strong>GORM</strong>.<br> 
-  - 🤖 I have integrated <strong>OpenAI</strong> and <strong>Ollama</strong> into various web applications to enable AI-powered features.<br> 
-  - 🧠 I'm also experienced with <strong>TypeScript</strong>, <strong>Prisma ORM</strong>, and <strong>React.js</strong>, giving me a solid grasp of both backend and frontend development.<br> 
-  - 🚀 Passionate about building scalable and intelligent systems, and always eager to explore and learn new technologies. </p>
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
-###
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-<h3 align="left">🛠 Language and tools</h3>
+### Frameworks & Libraries
+![Go-Chi](https://img.shields.io/badge/Go--Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin--Gonic-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-6DB33F?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![gRPC](https://img.shields.io/badge/gRPC-2A7FFF?style=for-the-badge&logo=grpc&logoColor=white)
 
-###
+### Messaging & Streaming
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-<div align="left">
-  
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-  ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-</div>
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-###
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna102001&show_icons=true&locale=en&layout=compact" alt="krishna102001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna102001&show_icons=true&locale=en" alt="krishna102001" /></p>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna102001&" alt="krishna102001" /></p>
-</div>
-<div>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna102001&layout=compact)
-</div>
+## 🐍 Contributions
 
-###
+<img src="https://raw.githubusercontent.com/krishna102001/krishna102001/output/github-contribution-grid-snake.svg" />
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/krishna102001/krishna102001/output/github-contribution-grid-snake.svg" />
+---
 
-###
-<div align="left">
-  <h2><b>👀 Visitor Count</b></h2>
-  <img src="https://count.getloli.com/@krishna102001?theme=booru-huggboo" alt="Kk Maurya" />
-</div>
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/krishna102001/count.svg?"  />
-</div> -->
+## 👀 Visitor Count
 
-###
+<img src="https://count.getloli.com/@krishna102001?theme=booru-huggboo" />
+
+---
+
+⭐️ *Always learning. Always building. Always shipping.*
