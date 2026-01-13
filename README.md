@@ -82,7 +82,9 @@
 
 ###
 <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna102001&show_icons=true&locale=en" alt="krishna102001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna102001&show_icons=true&locale=en&layout=compact" alt="krishna102001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna102001&show_icons=true&locale=en" alt="krishna102001" /></p>
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna102001&" alt="krishna102001" /></p>
 </div>
 <div>
