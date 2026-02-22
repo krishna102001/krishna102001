@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Golang Backend Developer | Intern @ Capcons Analytics | Freelance Developer
+  Golang Backend Developer | Freelance Developer
 </h3>
 
 ---
@@ -26,7 +26,6 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as a **Golang Developer Intern at Capcons Analytics**
 - 🧑‍💻 Also working as a **Freelance Golang Developer**, building scalable backend systems
 - 🎓 B.Tech in Information Technology from **Gautam Buddha University**
 - ⚙️ Strong focus on **high-performance APIs, system design, and distributed systems**
